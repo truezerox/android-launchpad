@@ -6,7 +6,8 @@ i hope you like it i did my best to make the code easy to understand
 for more information.
 
 it`s an interactive music pad (sound pad)
-the apk file can be found in (download and install on your phone)
+the apk file can be found in APK FILE BUILD (download and install on your phone)
+
 
 let me know how it works on your phone as i use VM or my own phone
 js_sr@hotmail.com
