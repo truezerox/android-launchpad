@@ -1,2 +1,12 @@
-# android launchpad
-My first created music launch pad
+# Flutter Launch Pad 🚀
+
+Welcome to my first web / android based app.
+
+i hope you like it i did my best to make the code easy to understand
+for more information.
+
+it`s an interactive music pad (sound pad)
+
+let me know how it works on your phone as i use VM or my own phone
+js_sr@hotmail.com
+https://www.johansteijvers.nl
