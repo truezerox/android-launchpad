@@ -12,3 +12,5 @@ the apk file can be found in APK FILE BUILD (download and install on your phone)
 let me know how it works on your phone as i use VM or my own phone
 js_sr@hotmail.com
 https://www.johansteijvers.nl
+
+![ScreenShot](/screenshots/Launchpad_app_chrome.jpg)
