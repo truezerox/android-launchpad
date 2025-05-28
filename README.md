@@ -13,4 +13,10 @@ let me know how it works on your phone as i use VM or my own phone
 js_sr@hotmail.com
 https://www.johansteijvers.nl
 
+
+
+This is the screenshot of my app in Google Chrome.
 ![ScreenShot](/screenshots/Launchpad_app_chrome.jpg)
+![ScreenShot](/screenshots/Launchpad_app_android.jpg)
+
+This is the app on Android. 
