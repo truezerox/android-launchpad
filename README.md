@@ -17,6 +17,6 @@ https://www.johansteijvers.nl
 
 This is the screenshot of my app in Google Chrome.
 ![ScreenShot](/screenshots/Launchpad_app_chrome.jpg)
-
+![ScreenShot](/screenshots/Launchpad_app_android.jpg)
 
 This is the app on Android. 
